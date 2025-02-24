@@ -17,7 +17,7 @@ Welcome to the **Introduction to Python** repository! This collection is aimed a
 ## First Steps
 Here you'll find the initial steps of my Python learning journey. Each file represents a different fundamental topic in Python:
 
-1. [1rstPythoncode.py](first-steps/1rstPythoncode.py) - My very first Python code.
+1. [1rstPythoncode.py](1rstPythoncode.py) - My very first Python code.
 2. [2.pythonAsCalculator.py](first-steps/2.pythonAsCalculator.py) - Using Python as a calculator.
 3. [3.VariableAssignment.py](first-steps/3.VariableAssignment.py) - Variable assignment basics.
 4. [4.CalculationsWithVariables.py](first-steps/4.CalculationsWithVariables.py) - Calculations with variables.
