@@ -18,12 +18,12 @@ Welcome to the **Introduction to Python** repository! This collection is aimed a
 Here you'll find the initial steps of my Python learning journey. Each file represents a different fundamental topic in Python:
 
 1. [1rstPythoncode.py](1rstPythoncode.py) - My very first Python code.
-2. [2.pythonAsCalculator.py](first-steps/2.pythonAsCalculator.py) - Using Python as a calculator.
-3. [3.VariableAssignment.py](first-steps/3.VariableAssignment.py) - Variable assignment basics.
-4. [4.CalculationsWithVariables.py](first-steps/4.CalculationsWithVariables.py) - Calculations with variables.
-5. [5.OtherVariableTypes.py](first-steps/5.OtherVariableTypes.py) - Exploring different variable types.
-6. [6.OperationsWithOtherTypes.py](first-steps/6.OperationsWithOtherTypes.py) - Operations with various types.
-7. [7.OperationsWithOtherTypes.py](first-steps/7.OperationsWithOtherTypes.py) - Continuing with operations.
+2. [2.pythonAsCalculator.py](2.pythonAsCalculator.py) - Using Python as a calculator.
+3. [3.VariableAssignment.py](3.VariableAssignment.py) - Variable assignment basics.
+4. [4.CalculationsWithVariables.py](4.CalculationsWithVariables.py) - Calculations with variables.
+5. [5.OtherVariableTypes.py](5.OtherVariableTypes.py) - Exploring different variable types.
+6. [6.OperationsWithOtherTypes.py](6.OperationsWithOtherTypes.py) - Operations with various types.
+7. [7.OperationsWithOtherTypes.py](7.OperationsWithOtherTypes.py) - Continuing with operations.
 
 ## Python Lists
 Today, I'll be working on the following topics related to Python lists:
