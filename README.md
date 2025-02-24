@@ -42,7 +42,7 @@ Here are some resources that have been helpful during my learning journey:
 - [DataCamp](https://www.datacamp.com/)
 - [YouTube](https://www.youtube.com/) for tutorials
 - [Copilot](https://copilot.com/)
-- [ChatGPT]([https://copilot.com/](https://chatgpt.com/?model=auto)/)
+- [ChatGPT]([https://copilot.com/](https://chatgpt.com/?model=auto))
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
@@ -52,7 +52,7 @@ A special thanks to all the amazing resources and communities that have helped m
 - [DataCamp](https://www.datacamp.com/)
 - [YouTube](https://www.youtube.com/)
 - [Copilot](https://copilot.com/)
-- [ChatGPT]([https://copilot.com/](https://chatgpt.com/?model=auto)/)
+- [ChatGPT]([https://copilot.com/](https://chatgpt.com/?model=auto))
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](MITLicense) file for details.
